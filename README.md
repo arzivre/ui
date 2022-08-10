@@ -1,5 +1,5 @@
 ```
-npm i @arzivre@0.0.2
+npm i @arzivre/ui@0.0.2
 
-yarn add @arzivre@0.0.2
+yarn add @arzivre/ui@0.0.2
 ```
