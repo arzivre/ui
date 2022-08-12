@@ -5417,7 +5417,7 @@ eslint@8.4.1:
     text-table "^0.2.0"
     v8-compile-cache "^2.0.3"
 
-eslint@^8.15.0:
+eslint@^8.21.0:
   version "8.21.0"
   resolved "https://registry.yarnpkg.com/eslint/-/eslint-8.21.0.tgz#1940a68d7e0573cef6f50037addee295ff9be9ef"
   integrity sha512-/XJ1+Qurf1T9G2M5IHrsjp+xrGT73RZf23xA1z5wB1ZzzEAWSZKvRwhWxTFp1rvkvCfwcvAUNAP31bhKTTGfDA==
@@ -10540,7 +10540,7 @@ turbo-windows-arm64@1.4.3:
   resolved "https://registry.yarnpkg.com/turbo-windows-arm64/-/turbo-windows-arm64-1.4.3.tgz#be4b38994cb3f1ceb36940ff6d6b227fa2ba53bf"
   integrity sha512-djnOOBjw33AnUx2SR6TMOpDr3nKLnVD+HcZvnQz70HyE331AKWjBoEE4rtUOteLAfViWAp3afbiljFSOnbU00Q==
 
-turbo@latest:
+turbo@^1.4.3:
   version "1.4.3"
   resolved "https://registry.yarnpkg.com/turbo/-/turbo-1.4.3.tgz#7221972f47a28bfcb53609e97db9810d2c3a265b"
   integrity sha512-g08eD2HdO/XW5xGHnXr0cXGiWnrgFBI6pN/3u0EOTeerKAsWIZU0ZrpSnl3whRtImeBB/gQu7Eu1waM2VOxzgw==
