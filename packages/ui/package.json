@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "ts-types": "tsc --emitDeclarationOnly --outDir dist",
-    "build": "rimraf dist && node ./esbuild.mjs && npm run ts-types"
+    "build": "rimraf dist && node ./esbuild.mjs && npm run ts-types",
+    "clean": "rm -rf .turbo && rm -rf node_modules && rm -rf dist"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
@@ -21,12 +22,11 @@
   },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
+  "types": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "types": "dist/index.d.ts",
   "publishConfig": {
-    "access": "public",
-    "registry": "https://npm.pkg.github.com/arzivre"
+    "access": "public"
   }
 }
