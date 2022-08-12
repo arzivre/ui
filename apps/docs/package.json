@@ -10,19 +10,19 @@
   },
   "dependencies": {
     "@arzivre/ui": "*",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react": "latest",
+    "react-dom": "latest"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^6.4.18",
-    "@storybook/addon-docs": "^6.4.22",
-    "@storybook/addon-essentials": "^6.4.18",
-    "@storybook/addon-links": "^6.4.18",
-    "@storybook/builder-vite": "^0.1.33",
-    "@storybook/react": "^6.4.18",
-    "@vitejs/plugin-react": "^1.3.2",
-    "serve": "^13.0.2",
-    "typescript": "^4.5.4",
-    "vite": "^2.9.9"
+    "@storybook/addon-actions": "latest",
+    "@storybook/addon-docs": "latest",
+    "@storybook/addon-essentials": "latest",
+    "@storybook/addon-links": "latest",
+    "@storybook/builder-vite": "latest",
+    "@storybook/react": "latest",
+    "@vitejs/plugin-react": "latest",
+    "serve": "latest",
+    "typescript": "latest",
+    "vite": "latest"
   }
 }
