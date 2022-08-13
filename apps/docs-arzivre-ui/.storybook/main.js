@@ -15,7 +15,7 @@ module.exports = {
         alias: [
           {
             find: '@arzivre/ui',
-            replacement: path.resolve(__dirname, '../../../packages/ui/'),
+            replacement: path.resolve(__dirname, '../../../packages/arzivre-ui/'),
           },
         ],
       },
