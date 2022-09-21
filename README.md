@@ -1,4 +1,5 @@
 # @arzivre/ui
+## This is private library
 ## Install
 ```
 npm i @arzivre/ui@0.0.2
